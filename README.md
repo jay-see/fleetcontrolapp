@@ -1,4 +1,4 @@
-# Jeffrey's Answer to the LuxOS Miner Control Application Challenge
+# Miner Control Application
 
 
 ## ASSUMPTIONS: 
